@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b196e6a6-cc54-4cec-9729-96cf76df51fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/BaseInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/BaseInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/base/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/base/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/features/APIAutomationTesting.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../java/features/APIAutomationTesting.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/features/AndroidSmokeTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../java/features/AndroidSmokeTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/pages/APIPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/pages/APIPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/runner/APIRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/runner/APIRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/runner/AndroidRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/runner/AndroidRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/steps/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/steps/LoginSteps.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1SJPZ9HF3ytWtPhvV2Jse5C8Thd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/00_Personal/SSense" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b196e6a6-cc54-4cec-9729-96cf76df51fa" name="Default Changelist" comment="" />
+      <created>1571278777218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571278777218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

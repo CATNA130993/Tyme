@@ -1,0 +1,8 @@
+target/
+*.class
+*.apk
+reports/
+.idea/*
+*.pdf
+src/test/resources/CiAMS.properties
+*.log
